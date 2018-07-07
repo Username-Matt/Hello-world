@@ -1,5 +1,4 @@
-# Hello-world
-The hello world repository
+<!DOCTYPE html>
 <html>
   <head>
     <script>
